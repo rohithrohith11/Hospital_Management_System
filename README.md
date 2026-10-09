@@ -26,10 +26,16 @@ Due to the size of the project files, the complete source code is provided as a 
 7.Run the script http://localhost/hospital (frontend)
 
 
-#Login Details:
-Login Details for admin : admin/Test@12345
-Login Details for Patient: johndoe12@test.com/Test@123
-Login Details for Doctor: anujk123@test.com/Test@123
+**#Login Details:**
+
+
+**Login Details for admin :** admin/Test@12345
+
+
+**Login Details for Patient:** johndoe12@test.com/Test@123
+
+
+**Login Details for Doctor:** anujk123@test.com/Test@123
 
 
 Thank you for visiting my repository!
