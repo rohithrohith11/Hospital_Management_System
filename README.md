@@ -63,19 +63,6 @@ http://localhost/Hospital_Management_System/
 
 *Note: If the project requires a database, configure its connection settings and import the database SQL file before running the application.*
 
-## 📸 Project Screenshots
-
-Add screenshots of your application here to showcase its interface and functionality.
-
-Suggested screenshots:
-
-- Home Page
-- Login Page
-- Dashboard
-- Hospital Management Pages
-
-To organize your screenshots, create a folder named `screenshots` in your repository.
-
 ## 🔮 Future Enhancements
 
 - **Database Integration:** Improve hospital information storage and management.
